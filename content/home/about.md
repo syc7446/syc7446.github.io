@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. student in Electrical & Computer Engineering"
   institution = "Virginia Tech"
-  year = Expected in 2019
+  year = "Expected in 2019"
 
 [[education.courses]]
   course = "M.S. in Mechanical Engineering"
@@ -36,4 +36,4 @@ weight = 5
 
 # Biography
 
-- I am a Ph.D. student in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu/) at [Virginia Tech](https://vt.edu/). I am a part of [RAAS Lab](https://www.raas.ece.vt.edu/) advised by [Prof. Pratap Tokekar](http://tokekar.github.io/). I received my M.S. degree advised by [Prof. Woojin Chung](https://scholar.google.com/citations?user=Hk9z_7AAAAAJ&hl=en&oi=ao) in 2013 and my B.S. degree in the [School of Mechanical Engineering](https://eng.korea.ac.kr/me_en/index.do#none) from [Korea University](https://www.korea.edu/) in 2011.
+I am a Ph.D. student in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu/) at [Virginia Tech](https://vt.edu/). I am a part of [RAAS Lab](https://www.raas.ece.vt.edu/) advised by [Prof. Pratap Tokekar](http://tokekar.github.io/). I received my M.S. degree advised by [Prof. Woojin Chung](https://scholar.google.com/citations?user=Hk9z_7AAAAAJ&hl=en&oi=ao) in 2013 and my B.S. degree in the [School of Mechanical Engineering](https://eng.korea.ac.kr/me_en/index.do#none) from [Korea University](https://www.korea.edu/) in 2011.
