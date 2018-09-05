@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Algorithmic Robotics",
+    "Path Planning",
+    "Computational Geometry",
+    "Cooperative Robotics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. student in Electrical & Computer Engineering"
+  institution = "Virginia Tech"
+  year = Expected in 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.S. in Mechanical Engineering"
+  institution = "Korea University"
+  year = 2013
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.S. in Mechanical Engineering"
+  institution = "Korea University"
+  year = 2011
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a Ph.D. student in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu/) at [Virginia Tech](https://vt.edu/). I am a part of [RAAS Lab](https://www.raas.ece.vt.edu/) advised by [Prof. Pratap Tokekar](http://tokekar.github.io/). I received my M.S. degree advised by [Prof. Woojin Chung](https://scholar.google.com/citations?user=Hk9z_7AAAAAJ&hl=en&oi=ao) in 2013 and my B.S. degree in the [School of Mechanical Engineering](https://eng.korea.ac.kr/me_en/index.do#none) from [Korea University](https://www.korea.edu/) in 2011.
