@@ -36,4 +36,4 @@ weight = 5
 
 # Biography
 
-I am a Ph.D. student in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu/) at [Virginia Tech](https://vt.edu/). I am a part of [RAAS Lab](https://www.raas.ece.vt.edu/) advised by [Prof. Pratap Tokekar](http://tokekar.github.io/). I received my received my M.S and B.S degrees in the [School of Mechanical Engineering](https://eng.korea.ac.kr/me_en/index.do#none) from [Korea University](https://www.korea.edu/) in 2013 and 2011, respectively.
+I am a Ph.D. student in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu/) at [Virginia Tech](https://vt.edu/). I am a part of [RAAS Lab](https://www.raas.ece.vt.edu/) advised by [Prof. Pratap Tokekar](http://tokekar.github.io/). I received my M.S and B.S degrees in the [School of Mechanical Engineering](https://eng.korea.ac.kr/me_en/index.do#none) from [Korea University](https://www.korea.edu/) in 2013 and 2011, respectively.
