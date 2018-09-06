@@ -22,7 +22,7 @@ publication = "In *IEEE International Conference on Robotics and Automation (ICR
 publication_short = "In *ICRA*"
 
 # Abstract and optional shortened version.
-abstract = "We study two multi-robot assignment problems for multi-target tracking. We consider distributed approaches in order to deal with limited sensing and communication ranges. We seek to simultaneously assign trajectories and targets to the robots. Our focus is on \emph{local} algorithms that achieve performance close to the optimal algorithms with limited communication. We show how to use a local algorithm that guarantees a bounded approximate solution within $\mathcal{O}(h\log{1/\epsilon})$ communication rounds. We compare with a greedy approach that achieves a $2$--approximation in as many rounds as the number of robots. Simulation results show that the local algorithm is an effective solution to the assignment problem."
+abstract = "We study a multi-robot assignment problem for multi-target tracking. The proposed problem can be viewed as the mixed packing and covering problem. To deal with a limitation on both sensing and communication ranges, a distributed approach is taken into consideration. A local algorithm gives theoretical bounds on both the running time and approximation ratio to an optimal solution. We employ a local algorithm of max-min linear programs to solve the proposed task. Simulation result shows that a local algorithm is an effective solution to the multi-robot task allocation."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
