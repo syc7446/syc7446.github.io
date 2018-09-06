@@ -3,8 +3,8 @@ title = "Algorithm for searching and tracking an unknown and varying number of m
 date = 2017-05-29T00:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Yoonchang Sung", "Pratap Tokekar"]`.
-authors = ["Yoonchang Sung", "Pratap Tokekar"]
+# Authors. Comma separated list, e.g. `["Yoonchang Sung"]`.
+authors = ["Yoonchang Sung", "and Pratap Tokekar"]
 
 # Publication type.
 # Legend:
