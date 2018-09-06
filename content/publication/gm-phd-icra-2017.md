@@ -1,5 +1,5 @@
 +++
-title = "Algorithm for searching and tracking an unknown and varying number of mobile targets using a limited FoV sensor"
+title = "Algorithm for Searching and Tracking an Unknown and Varying Number of Mobile Targets using a Limited FoV Sensor"
 date = 2017-05-29T00:00:00
 draft = false
 
