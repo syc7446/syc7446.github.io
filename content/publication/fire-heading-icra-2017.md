@@ -15,7 +15,7 @@ authors = ["Jong-Hwan Kim", "Yoonchang Sung", "and Brian Lattimer"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *IEEE International Conference on Robotics and Automation (ICRA)*."
