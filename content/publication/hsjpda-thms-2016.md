@@ -4,7 +4,7 @@ date = 2016-06-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Yoonchang Sung"]`.
-authors = ["**Yoonchang Sung**", "and Woojin Chung"]
+authors = ["[J1] **Yoonchang Sung**", "and Woojin Chung"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *IEEE Transactions on Human-Machine Systems (T-HMS)*."
-publication_short = "In *T-HMS*"
+publication_short = "In *T-HMS (Journal Articles)*"
 
 # Abstract and optional shortened version.
 abstract = "Human-following in a cluttered environment is one of the challenging issues for mobile service robot applications. Since a laser range finder (LRF) is commonly installed for autonomous navigation, it is advantageous to adopt an LRF for detection and tracking humans. In this paper, we aim at the reliable human tracking performances in a dynamic cluttered environment. The key idea is to develop a hierarchical sample-based joint probabilistic data association filter (HSJPDAF) by focusing on the leg positions as well as human positions. The proposed HSJPDAF consists of two levels in order to consider the interdependence between targets. Possible locations of multiple human targets can be simultaneously estimated on the basis of Bayesian filtering. Comparison with the general technique was carried out to verify the performance of HSJPDAF in both artificial indoor and real-world environments. Owing to the hierarchical framework, the proposed method shows the improved robustness by reducing the target loss rate significantly in a dynamic cluttered environment."
