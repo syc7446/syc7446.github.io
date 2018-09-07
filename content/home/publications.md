@@ -1,3 +1,5 @@
+# Journal Articles
+
 +++
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
@@ -35,7 +37,3 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-
-# Journal Articles
-
-I am a Ph.D. student in the
