@@ -66,7 +66,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Yoon_Photography.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "yooncs8@vt.edu"
+  email = "yooncs8 at vt.edu"
   address = "621 Whittemore Hall, Virginia Tech, Blacksburg, VA 24061, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
