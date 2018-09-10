@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *IEEE International Conference on Robotics and Automation (ICRA)*."
-publication_short = "In *ICRA*"
+publication_short = "In *ICRA (Refereed Conference Publications)*"
 
 # Abstract and optional shortened version.
 abstract = "We study a multi-robot assignment problem for multi-target tracking. The proposed problem can be viewed as the mixed packing and covering problem. To deal with a limitation on both sensing and communication ranges, a distributed approach is taken into consideration. A local algorithm gives theoretical bounds on both the running time and approximation ratio to an optimal solution. We employ a local algorithm of max-min linear programs to solve the proposed task. Simulation result shows that a local algorithm is an effective solution to the multi-robot task allocation."
