@@ -4,7 +4,7 @@ date = 2017-02-27T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Yoonchang Sung"]`.
-authors = ["Coleman Knabe", "Robert Griffin", "James Burton", "Graham Cantor-Cooke", "Lakshitha Dantanarayana", "Graham Day", "Oliver Ebeling-Koning", "Eric Hahn", "Michael Hopkins", "Jordan Neal", "Jackson Newton", "Chris Nogales", "Viktor Orekhov", "John Peterson", "Michael Rouleau", "John Seminatore", "**Yoonchang Sung**", "Jacob Webb", "Nikolaus Wittenstein", "Jason Ziglar", "Alexander Leonessa", "Brian Lattimer", "and Tomonari Furukawa"]
+authors = ["[Journal] Coleman Knabe", "Robert Griffin", "James Burton", "Graham Cantor-Cooke", "Lakshitha Dantanarayana", "Graham Day", "Oliver Ebeling-Koning", "Eric Hahn", "Michael Hopkins", "Jordan Neal", "Jackson Newton", "Chris Nogales", "Viktor Orekhov", "John Peterson", "Michael Rouleau", "John Seminatore", "**Yoonchang Sung**", "Jacob Webb", "Nikolaus Wittenstein", "Jason Ziglar", "Alexander Leonessa", "Brian Lattimer", "and Tomonari Furukawa"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Journal of Field Robotics (JFR)*."
-publication_short = "In *JFR (Journal Articles)*"
+publication_short = "In *JFR*"
 
 # Abstract and optional shortened version.
 abstract = "The Electric Series Compliant Humanoid for Emergency Response (ESCHER) platform represents the culmination of four years of development at Virginia Tech to produce a full‐sized force‐controlled humanoid robot capable of operating in unstructured environments. ESCHER's locomotion capability was demonstrated at the DARPA Robotics Challenge (DRC) Finals when it successfully navigated the 61 m loose dirt course. Team VALOR, a Track A team, developed ESCHER leveraging and improving upon bipedal humanoid technologies implemented in previous research efforts, specifically for traversing uneven terrain and sustained untethered operation. This paper presents the hardware platform, software, and control systems developed to field ESCHER at the DRC Finals. ESCHER's unique features include custom linear series elastic actuators in both single and dual actuator configurations and a whole‐body control framework supporting compliant locomotion across variable and shifting terrain. A high‐level software system designed using the robot operating system integrated various open‐source packages and interfaced with the existing whole‐body motion controller. The paper discusses a detailed analysis of challenges encountered during the competition, along with lessons learned that are critical for transitioning research contributions to a fielded robot. Empirical data collected before, during, and after the DRC Finals validate ESCHER's performance in fielded environments."
