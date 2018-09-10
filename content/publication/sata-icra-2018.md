@@ -4,7 +4,7 @@ date = 2018-05-29T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Yoonchang Sung"]`.
-authors = ["**Yoonchang Sung**", "Ashish Kumar Budhiraja", "Ryan K Williams", "and Pratap Tokekar"]
+authors = ["[Conference] **Yoonchang Sung**", "Ashish Kumar Budhiraja", "Ryan K Williams", "and Pratap Tokekar"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *IEEE International Conference on Robotics and Automation (ICRA)*."
-publication_short = "In *ICRA (Refereed Conference Publications)*"
+publication_short = "In *ICRA*"
 
 # Abstract and optional shortened version.
 abstract = "We study a multi-robot assignment problem for multi-target tracking. The proposed problem can be viewed as the mixed packing and covering problem. To deal with a limitation on both sensing and communication ranges, a distributed approach is taken into consideration. A local algorithm gives theoretical bounds on both the running time and approximation ratio to an optimal solution. We employ a local algorithm of max-min linear programs to solve the proposed task. Simulation result shows that a local algorithm is an effective solution to the multi-robot task allocation."
