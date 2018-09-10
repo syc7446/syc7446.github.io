@@ -4,7 +4,7 @@ date = 2017-02-27T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Yoonchang Sung"]`.
-authors = ["[Journal] Coleman Knabe", "Robert Griffin", "James Burton", "Graham Cantor-Cooke", "Lakshitha Dantanarayana", "Graham Day", "Oliver Ebeling-Koning", "Eric Hahn", "Michael Hopkins", "Jordan Neal", "Jackson Newton", "Chris Nogales", "Viktor Orekhov", "John Peterson", "Michael Rouleau", "John Seminatore", "**Yoonchang Sung**", "Jacob Webb", "Nikolaus Wittenstein", "Jason Ziglar", "Alexander Leonessa", "Brian Lattimer", "and Tomonari Furukawa"]
+authors = ["[*Journal*] Coleman Knabe", "Robert Griffin", "James Burton", "Graham Cantor-Cooke", "Lakshitha Dantanarayana", "Graham Day", "Oliver Ebeling-Koning", "Eric Hahn", "Michael Hopkins", "Jordan Neal", "Jackson Newton", "Chris Nogales", "Viktor Orekhov", "John Peterson", "Michael Rouleau", "John Seminatore", "**Yoonchang Sung**", "Jacob Webb", "Nikolaus Wittenstein", "Jason Ziglar", "Alexander Leonessa", "Brian Lattimer", "and Tomonari Furukawa"]
 
 # Publication type.
 # Legend:
