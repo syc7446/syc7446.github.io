@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/7342938/"
+url_pdf = "pdf/sjpdaf-thms-2016.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
