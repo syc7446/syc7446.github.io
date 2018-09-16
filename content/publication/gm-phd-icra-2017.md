@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/7989740/"
+url_pdf = "pdf/phd-tracking-icra-2017.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
