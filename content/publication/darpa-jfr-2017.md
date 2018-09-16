@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://onlinelibrary.wiley.com/doi/10.1002/rob.21697"
+url_pdf = "pdf/drc-jfr-2017.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
