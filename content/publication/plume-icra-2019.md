@@ -1,6 +1,6 @@
 +++
 title = "A Competitive Algorithm for Online Multi-Robot Exploration of a Translating Plume"
-date = 2019-05-29T00:00:00
+date = 2018-09-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Yoonchang Sung"]`.
