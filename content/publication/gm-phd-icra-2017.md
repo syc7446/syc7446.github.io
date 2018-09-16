@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/7989740/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -52,8 +52,6 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-
-url_custom = [{name = "Custom Link 1", url = "https://ieeexplore.ieee.org/abstract/document/7989740/"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
