@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "pdf/icra-2019-plume.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
