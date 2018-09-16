@@ -1,10 +1,10 @@
 +++
-title = "Distributed Simultaneous Action and Target Assignment for Multi-Robot Multi-Target Tracking"
-date = 2018-05-29T00:00:00
+title = "A Competitive Algorithm for Online Multi-Robot Exploration of a Translating Plume"
+date = 2019-05-29T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Yoonchang Sung"]`.
-authors = ["[*Conference*] **Yoonchang Sung**", "Ashish Kumar Budhiraja", "Ryan K Williams", "and Pratap Tokekar"]
+authors = ["[*Conference*] **Yoonchang Sung**", "and Pratap Tokekar"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication = "In *IEEE International Conference on Robotics and Automation (ICR
 publication_short = "In *ICRA*"
 
 # Abstract and optional shortened version.
-abstract = "We study a multi-robot assignment problem for multi-target tracking. The proposed problem can be viewed as the mixed packing and covering problem. To deal with a limitation on both sensing and communication ranges, a distributed approach is taken into consideration. A local algorithm gives theoretical bounds on both the running time and approximation ratio to an optimal solution. We employ a local algorithm of max-min linear programs to solve the proposed task. Simulation result shows that a local algorithm is an effective solution to the multi-robot task allocation."
+abstract = "In this paper, we study the problem of exploring a translating plume with a team of aerial robots. The shape and the size of the plume are unknown to the robots. The objective is to find a tour for each robot such that they collectively explore the plume. Specifically, the tours must be such that each point in the plume must be visible from the field-of-view of some robot along its tour. We propose a recursive Depth-First Search (DFS)-based algorithm that yields a constant competitive ratio for the exploration problem. The competitive ratio is 2(S_r+S_p)(R+log(R))/(S_r−S_p)(1+log(R)) where R is the number of robots, and S r and S p are the robot speed and the plume speed, respectively. We also consider a more realistic scenario where the plume shape is not restricted to grid cells but an arbitrary shape. We show our algorithm has 2(S_r+S_p)(18R+log(R))/(S_r−S_p)(1+log(R)) competitive ratio under the fat condition. We empirically verify our algorithm using simulations."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1706.02245.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
