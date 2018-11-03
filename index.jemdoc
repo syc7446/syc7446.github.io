@@ -1,8 +1,8 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
+# jemdoc: menu{MENU}{index.html}, notime  
 ==Yoonchang Sung 
 
 ~~~
-{}{img_left}{photos/Yoon_Photography.png}{alt text}{140}{175}{http://yoonchangsung.com/}
+{}{img_left}{photos/Yoon_Photography.png}{alt text}{140}{185}{http://yoonchangsung.com/}
 Ph.D. Student,\n [https://ece.vt.edu/ Bradley Department of Electrical and Computer Engineering], \n[https://vt.edu/ Virginia Tech]\n
 621 Whittemore Hall, Virginia Tech, \n
 Blacksburg, VA 24061, USA \n 
@@ -17,6 +17,11 @@ I am a Ph.D. student in the [https://ece.vt.edu/ Bradley Department of Electrica
 - M.S. in Mechanical Engineering, Korea University, 2013
 - B.S. in Mechanical Engineering, Korea University, 2011
 
+#~~~
+#== Recent News
+#- *Nov `18*: 
+#~~~
+
 == Research Interests
 - Algorithmic Robotics  
 - Path Planning
@@ -24,37 +29,15 @@ I am a Ph.D. student in the [https://ece.vt.edu/ Bradley Department of Electrica
 - Cooperative Robotics
 - Decision Making
 
-# [research.html Find out more].
-== Publications 
-=== Journal Articles
+[research.html Find out more].
+
+== Recent Publications 
 . Z. Zhang, J. Lee, JM Smereka, *Y. Sung*, L. Zhou, and P. Tokekar, \“Tree search techniques for minimizing detectability and maximizing visibility,\” /IEEE Robotics and Automation Letters (RA-L)/, Note: Submitted.
 . *Y. Sung*, AK Budhiraja, RK Williams, and P. Tokekar, \“Distributed simultaneous action and target assignment for multi-robot multi-target tracking,\” /Autonomous Robots (AuRo)/, Note: Submitted.
 . *Y. Sung*, and P. Tokekar, \“GM-PHD filter for searching and tracking an unknown number of targets with a mobile sensor with limited FoV,\” /IEEE Transactions on Automation Science and Engineering (T-ASE)/, Note: Submitted.
-. C. Knabe, R. Griffin, J. Burton, G. Cantor-Cooke, L. Dantanarayana, G. Day, O. Ebeling-Koning, E. Hahn, M. Hopkins, J. Neal, J. Newton, C. Nogales, V. Orekhov, J. Peterson, M. Rouleau, J. Seminatore, *Y. Sung*, J. Webb, N. Wittenstein, J. Ziglar, A. Leonessa, B. Lattimer, and T. Furukawa, \“Team VALOR's ESCHER: A novel electromechanical biped for the DARPA Robotics Challenge,\” /Journal of Field Robotics (JFR)/, 34(5): pp. 912-939, 2017. \[[pub/drc-jfr-2017.pdf pdf]\]
-. *Y. Sung*, and W. Chung, \“Hierarchical sample-based joint probabilistic data association filter for following human legs using a mobile robot in a cluttered environment,\” /IEEE Transactions on Human-Machine Systems (T-HMS)/, 46(3): pp. 340-349, 2016. \[[pub/sjpdaf-thms-2016.pdf pdf]\]
-
-=== Refereed Conference Publications
 . *Y. Sung*, and P. Tokekar, \“A competitive algorithm for online multi-robot exploration of a translating plume,\” /IEEE International Conference on Robotics and Automation (ICRA 2019)/, Note: Submitted.
 . *Y. Sung*, AK Budhiraja, RK Williams, and P. Tokekar, \“Distributed simultaneous action and target assignment for multi-robot multi-target tracking,\” /IEEE International Conference on Robotics and Automation (ICRA 2018)/, 2018.
-. *Y. Sung*, and P. Tokekar, \“Hierarchical GM-PHD filter for false alarm reduction in search and tracking task,\” /US-KOREA Conference on Science, Technology and Entrepreneurship (UKC 2017)/, 2017.
-. *Y. Sung*, and P. Tokekar, \“Algorithms for searching and tracking an unknown and varying number of mobile targets using a limited FoV sensor,\” /IEEE International Conference on Robotics and Automation (ICRA 2017)/, 2017. \[[pub/phd-tracking-icra-2017.pdf pdf]\]
-. JH Kim, *Y. Sung*, and B. Lattimer, \“Bayesian estimation based real-time fire-heading in smoke-filled indoor environments using thermal imagery,\” /IEEE International Conference on Robotics and Automation (ICRA 2017)/, 2017. \[[pub/fire-icra-2017.pdf pdf]\]
-. *Y. Sung*, and T. Furukawa, \“Information measure for the optimal control of target searching via the grid-based method,\” /International Conference on Information Fusion (Fusion 2016)/, 2016.
-. B. Lattimer, J. Starr, J. McNeil, C. Nogales, J. Peterson, J. Ziglar, J. Burton, C. Knabe, *Y. Sung*, J. Seminatore, R. Griffin, J. Newton, V. Orekhov, M. Rouleau, M. Hopkins, D. Hong, and D. Lee, \“Humanoid firefighting robot for structure fires,\” /International Conference and Exhibition on Fire Science and Engineering (Interflam 2016)/, 2016.
-. D. Cha, H. Cho, J. Jin, H. Kwon, J. Kim, H. Lee, J. Seong, C. Moon, H. Kim, *Y. Sung*, and W. Chung, \“Tracking human legs for an indoor mobile robot with a single laser range finder,\” /International Conference on Engineering and Applied Sciences (ICEAS 2015)/, 2015.
-. *Y. Sung*, and W. Chung, \“Human tracking of a mobile robot with an onboard LRF(Laser Range Finder) using human walking motion analysis,\” /International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2011)/, 2011.
 
-=== Refereed Workshop Publications
-. *Y. Sung*, S. Buebel, and P. Tokekar, \“Detecting and mapping hazardous plumes with aerial and surface robots,\” /IEEE International Conference on Robotics and Automation (ICRA 2018) Workshop on Robot Teammates Operating in Dynamic, Unstructured Environment/, 2018.
-. *Y. Sung*, AK Budhiraja, RK Williams, and P. Tokekar, \“Distributed simultaneous action and target assignment for multi-robot multi-target tracking,\” /IEEE International Conference on Robotics and Automation (ICRA 2017) Workshop on Multi-robot Perception-driven Control and Planning/, 2017.
-
-=== Book Chapters
-. C. Knabe, R. Griffin, J. Burton, G. Cantor-Cooke, L. Dantanarayana, G. Day, O. Ebeling-Koning, E. Hahn, M. Hopkins, J. Neal, J. Newton, C. Nogales, V. Orekhov, J. Peterson, M. Rouleau, J. Seminatore, *Y. Sung*, J. Webb, N. Wittenstein, J. Ziglar, A. Leonessa, B. Lattimer, and T. Furukawa, \“Team VALOR's ESCHER: A Novel Electromechanical Biped for the DARPA Robotics Challenge,\” /The DARPA Robotics Challenge Finals: Humanoid Robots To The Rescue. Springer, Cham./, pp. 583-629, 2018.
-
-=== Posters
-. *Y. Sung*, and W. Chung, \“Implementation of JPDAFs to track humans for a mobile robot with a laser range finder,\” /IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2013)/, 2013.
-
-
-#[publications.html Full list of publications].
+[pub.html Full list of publications].
 #\n
 #[yoon_cv.pdf My cv].
