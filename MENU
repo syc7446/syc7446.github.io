@@ -1,5 +1,5 @@
 menu
-    Home                [index.html]
+    Home                [html/index.html]
     Research			[research.html]
 	Publication         [publications.html]
 	Teaching			[teaching.html]
