@@ -1,8 +1,8 @@
-# jemdoc: menu{MENU}{html/index.html}, nofooter  
-==Euhanna Ghadimi 
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Yoonchang Sung 
 
 ~~~
-{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
+{}{img_left}{photos/Yoon_Photography.png}{alt text}{131}{160}{http://yoonchangsung.com/}
 PhD,\n [http://www.kth.se/ees/omskolan/organisation/avdelningar/ac?l=en_UK Automatic Control Department], \n[http://www.kth.se Royal Institute of Technology (KTH)]\n
 Osquldas v\&aumlg 10 \n
 100 44 Stockholm, Sweden \n 
@@ -12,8 +12,7 @@ E-post: /euhanna/ \[@\] kth \[DOT\] se
 ~~~
 
 == About me
-I received the B.S. and M.Sc. degrees in computer engineering from Iran University of Science and Technology ([http://www.iust.ac.ir IUST]), and the [http://ece.ut.ac.ir/ University of Tehran], Iran, in 2005 and 2008, respectively. In April 2015, I received the PhD degree in Telecommunications under the supervision of 
- [http://www.people.kth.se/~mikaelj/ Prof. Mikael Johansson] and  [http://www.people.kth.se/~carlofi/ Prof. Carlo Fischione] at [http:www.kth.se KTH].  
+I am a Ph.D. student in the [https://ece.vt.edu/ Bradley Department of Electrical and Computer Engineering] at [https://vt.edu/ Virginia Tech]. I am a part of [https://www.raas.ece.vt.edu/ RAAS Lab] advised by [http://tokekar.github.io/ Prof. Pratap Tokekar]. I received my M.S. and B.S. degrees in the School of Mechanical Engineering from [https://www.korea.edu/ Korea University] in 2013 and 2011, respectively.
 
 == Research
 My research interests include 
