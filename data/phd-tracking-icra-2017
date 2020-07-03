@@ -1,0 +1,8 @@
+@inproceedings{sung2017algorithm,
+  title={Algorithm for searching and tracking an unknown and varying number of mobile targets using a limited fov sensor},
+  author={Sung, Yoonchang and Tokekar, Pratap},
+  booktitle={2017 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={6246--6252},
+  year={2017},
+  organization={IEEE}
+}

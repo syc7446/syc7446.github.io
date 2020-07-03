@@ -1,0 +1,8 @@
+@inproceedings{kim2017bayesian,
+  title={Bayesian estimation based real-time fire-heading in smoke-filled indoor environments using thermal imagery},
+  author={Kim, Jong-Hwan and Sung, Yoonchang and Lattimer, Brian Y},
+  booktitle={2017 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={5231--5236},
+  year={2017},
+  organization={IEEE}
+}

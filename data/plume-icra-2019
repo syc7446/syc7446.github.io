@@ -1,0 +1,8 @@
+@inproceedings{sung2019competitive,
+  title={A competitive algorithm for online multi-robot exploration of a translating plume},
+  author={Sung, Yoonchang and Tokekar, Pratap},
+  booktitle={2019 International Conference on Robotics and Automation (ICRA)},
+  pages={3391--3397},
+  year={2019},
+  organization={IEEE}
+}

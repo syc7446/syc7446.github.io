@@ -1,0 +1,8 @@
+@inproceedings{zhang2019tree,
+  title={Tree Search Techniques for Minimizing Detectability and Maximizing Visibility},
+  author={Zhang, Zhongshun and Lee, Joseph and Smereka, Jonathon M and Sung, Yoonchang and Zhou, Lifeng and Tokekar, Pratap},
+  booktitle={2019 International Conference on Robotics and Automation (ICRA)},
+  pages={8791--8797},
+  year={2019},
+  organization={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{sung2018distributed,
+  title={Distributed simultaneous action and target assignment for multi-robot multi-target tracking},
+  author={Sung, Yoonchang and Budhiraja, Ashish Kumar and Williams, Ryan K and Tokekar, Pratap},
+  booktitle={2018 IEEE International conference on robotics and automation (ICRA)},
+  pages={1--9},
+  year={2018},
+  organization={IEEE}
+}
