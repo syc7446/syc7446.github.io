@@ -75,6 +75,80 @@
             </td>
           </tr>
 
+          <tr>
+            <td style="padding:20px;width:30%;vertical-align:middle">
+              <p>
+                <h3>Task and Motion Planning</h3>
+              </p>
+              <div class="one" onmouseout="backjumping_stop()" onmouseover="backjumping_start()">
+                <div class="two" id='backjumping_image'><video  width="180" muted autoplay loop>
+                <source src="videos/backjumping.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+                </video></div>
+                <img src='photos/backjumping.png' width="180">
+              </div>
+              <script type="text/javascript">
+                function backjumping_start() {
+                  document.getElementById('backjumping_image').style.opacity = "1";
+                }
+
+                function backjumping_stop() {
+                  document.getElementById('backjumping_image').style.opacity = "0";
+                }
+                backjumping_stop()
+              </script>
+              <div class="one" onmouseout="tamp_stop()" onmouseover="tamp_start()">
+                <div class="two" id='tamp_image'><video  width="180" muted autoplay loop>
+                <source src="videos/tamp.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+                </video></div>
+                <img src='photos/tamp.png' width="180">
+              </div>
+              <script type="text/javascript">
+                function tamp_start() {
+                  document.getElementById('tamp_image').style.opacity = "1";
+                }
+
+                function tamp_stop() {
+                  document.getElementById('tamp_image').style.opacity = "0";
+                }
+                tamp_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:70%;vertical-align:middle">
+              <p>
+                Leveraging machine learning techniques to learn useful heuristics from past experience can improve planning efficiency.
+                <br>
+                <br>
+                <a href="pub/backjumping-corl-2022.pdf" target=&ldquo;blank&rdquo;>
+                  <papertitle>Learning to correct mistakes: backjumping in long-horizon task and motion planning</papertitle>
+                </a>
+                <br>
+                <strong>Yoonchang Sung</strong>*,
+                Zizhao Wang*,
+                Peter Stone
+                <br>
+                <em>Conference on Robot Learning (CoRL)</em>, 2022
+                <br>
+                <br>
+                <a href="pub/ltl-bt-icra-2021.pdf" target=&ldquo;blank&rdquo;>
+                  <papertitle>Reactive task and motion planning under temporal logic specifications</papertitle>
+                </a>
+                <br>
+                Shen Li*, 
+                Daehyung Park*, 
+                <strong>Yoonchang Sung</strong>*,
+                Julie Shah,
+                Nicholas Roy
+                <br>
+                <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2021
+                <br>
+                <br>
+                <br>
+              </p>
+            </td>
+          </tr>
+
           <tr onmouseout="hypernerf_stop()" onmouseover="hypernerf_start()">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <p>
@@ -85,7 +159,7 @@
                 <source src="photos/hypernerf_after.mp4" type="video/mp4">
                 Your browser does not support the video tag.
                 </video></div> -->
-                <img src='photos/meta-reasoning.png' width="180">
+                <img src='photos/meta-reasoning.png' width="180" height="140">
               </div>
               <script type="text/javascript">
                 function hypernerf_start() {
@@ -120,73 +194,27 @@
             </td>
           </tr> 
 
-          <tr onmouseout="hypernerf_stop()" onmouseover="hypernerf_start()">
-            <td style="padding:20px;width:30%;vertical-align:middle">
-              <p>
-                <h3>Task and Motion Planning</h3>
-              </p>
-              <div class="one">
-                <!-- <div class="two" id='hypernerf_image'><video  width=100% height=100% muted autoplay loop>
-                <source src="photos/hypernerf_after.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-                </video></div> -->
-                <img src='photos/tamp.png' width="180">
-              </div>
-              <script type="text/javascript">
-                function hypernerf_start() {
-                  document.getElementById('hypernerf_image').style.opacity = "1";
-                }
-
-                function hypernerf_stop() {
-                  document.getElementById('hypernerf_image').style.opacity = "0";
-                }
-                hypernerf_stop()
-              </script>
-            </td>
-            <td style="padding:20px;width:70%;vertical-align:middle">
-              <p>
-                We develop a task and motion planner under temporal constraints.
-                <br>
-                <br>
-                <a href="pub/ltl-bt-icra-2021.pdf" target=&ldquo;blank&rdquo;>
-                  <papertitle>Reactive task and motion planning under temporal logic specifications</papertitle>
-                </a>
-                <br>
-                Shen Li*, 
-                Daehyung Park*, 
-                <strong>Yoonchang Sung</strong>*,
-                Julie Shah,
-                Nicholas Roy
-                <br>
-                <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2021
-                <br>
-                <br>
-                <br>
-              </p>
-            </td>
-          </tr>
-
-          <tr onmouseout="hypernerf_stop()" onmouseover="hypernerf_start()">
+          <tr onmouseout="multirobot_coordination_stop()" onmouseover="multirobot_coordination_start()">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <p>
                 <h3>Multi-Robot Coordination</h3>
               </p>
               <div class="one">
-                <!-- <div class="two" id='hypernerf_image'><video  width=100% height=100% muted autoplay loop>
-                <source src="photos/hypernerf_after.mp4" type="video/mp4">
+                <div class="two" id='multirobot_coordination_image'><video  width="180" muted autoplay loop>
+                <source src="videos/multirobot_coordination.mp4" type="video/mp4">
                 Your browser does not support the video tag.
-                </video></div> -->
+                </video></div>
                 <img src='photos/multirobot_coordination.png' width="180">
               </div>
               <script type="text/javascript">
-                function hypernerf_start() {
-                  document.getElementById('hypernerf_image').style.opacity = "1";
+                function multirobot_coordination_start() {
+                  document.getElementById('multirobot_coordination_image').style.opacity = "1";
                 }
 
-                function hypernerf_stop() {
-                  document.getElementById('hypernerf_image').style.opacity = "0";
+                function multirobot_coordination_stop() {
+                  document.getElementById('multirobot_coordination_image').style.opacity = "0";
                 }
-                hypernerf_stop()
+                multirobot_coordination_stop()
               </script>
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle">
@@ -247,23 +275,27 @@
             </td>
           </tr>
 
-          <tr onmouseout="hypernerf_stop()" onmouseover="hypernerf_start()">
+          <tr onmouseout="state_estimation_stop()" onmouseover="state_estimation_start()">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <p>
                 <h3>State Estimation & Tracking</h3>
               </p>
               <div class="one">
+                <div class="two" id='state_estimation_image'><video  width="180" muted autoplay loop>
+                <source src="videos/state_estimation.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+                </video></div>
                 <img src='photos/state_estimation.png' width="180">
               </div>
               <script type="text/javascript">
-                function hypernerf_start() {
-                  document.getElementById('hypernerf_image').style.opacity = "1";
+                function state_estimation_start() {
+                  document.getElementById('state_estimation_image').style.opacity = "1";
                 }
 
-                function hypernerf_stop() {
-                  document.getElementById('hypernerf_image').style.opacity = "0";
+                function state_estimation_stop() {
+                  document.getElementById('state_estimation_image').style.opacity = "0";
                 }
-                hypernerf_stop()
+                state_estimation_stop()
               </script>
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle">
@@ -295,23 +327,27 @@
             </td>
           </tr>
 
-          <tr onmouseout="hypernerf_stop()" onmouseover="hypernerf_start()">
+          <tr onmouseout="object_search_stop()" onmouseover="object_search_start()">
             <td style="padding:20px;width:30%;vertical-align:middle">
               <p>
                 <h3>Planning for Object Search</h3>
               </p>
               <div class="one">
+                <div class="two" id='object_search_image'><video  width="180" muted autoplay loop>
+                <source src="videos/object_search.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+                </video></div>
                 <img src='photos/object_search.png' width="180">
               </div>
               <script type="text/javascript">
-                function hypernerf_start() {
-                  document.getElementById('hypernerf_image').style.opacity = "1";
+                function object_search_start() {
+                  document.getElementById('object_search_image').style.opacity = "1";
                 }
 
-                function hypernerf_stop() {
-                  document.getElementById('hypernerf_image').style.opacity = "0";
+                function object_search_stop() {
+                  document.getElementById('object_search_image').style.opacity = "0";
                 }
-                hypernerf_stop()
+                object_search_stop()
               </script>
             </td>
             <td style="padding:20px;width:70%;vertical-align:middle">
