@@ -303,3 +303,23 @@ a:active {
 .selected-figure-caption {
   max-width: 600px;
 }
+
+/* Scrollable News box */
+.news-scroll {
+  max-height: 170px;      /* adjust height as you like */
+  overflow-y: auto;       /* show vertical scrollbar when needed */
+  padding-right: 10px;    /* avoids text being hidden under scrollbar */
+  border-left: none;  /* optional “vertical bar” look */
+  padding-left: 12px;     /* space between bar and text */
+}
+
+/* Optional: spacing between list items */
+.news-scroll ul {
+  list-style: none;   /* removes bullets */
+  padding-left: 0;    /* removes left indentation */
+  margin-left: 0;
+}
+
+.news-scroll li {
+  margin-bottom: 0;
+}
